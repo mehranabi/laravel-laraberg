@@ -1,6 +1,7 @@
 @extends('layout')
 @section('title', $post['title'])
 @section('style')
+    <link rel="stylesheet" href="{{asset('vendor/laraberg/css/laraberg.css')}}">
 @endsection
 @section('content')
     <div class="ui segment">
