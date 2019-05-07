@@ -18,4 +18,4 @@ Mehran Abghari - [mehran.ab80@gmail.com](mailto:mehran.ab80@gmail.com) - [github
 
 Lisence: MIT
 
-You can do anything with this library :) Hope you enjoy!
+You can do anything with this code :) Hope you enjoy!
